@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.198925mm"
+   height="42.018818mm"
+   viewBox="0 0 38.198925 42.018818"
+   version="1.1"
+   id="svg6772"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6769" />
+  <g
+     id="layer1"
+     transform="translate(-122.12635,-34.700269)"
+     style="fill:#ffb031;fill-opacity:1">
+    <style
+       id="style8494">
+.MsftOfcThm_Background1_Fill_v2 {
+ fill:#FFFFFF; 
+}
+</style>
+    <style
+       id="style8508">
+.MsftOfcThm_Background1_Fill_v2 {
+ fill:#FFFFFF; 
+}
+</style>
+    <style
+       id="style8530">
+.MsftOfcThm_Background1_Fill_v2 {
+ fill:#FFFFFF; 
+}
+</style>
+    <g
+       id="g8536"
+       transform="matrix(0.47748656,0,0,0.47748656,118.30646,32.790323)"
+       style="fill:#ffb031;fill-opacity:1">
+      <path
+         d="m 82,83.6 -20,-19 20,-19 z M 17.2,86 37,67.3 38.4,66 c 5.4,-5.1 13.9,-5.1 19.3,0 L 59.1,67.3 78.8,86 Z M 14,45.5 l 20,19 -20,19 z M 28,20 h 40 v 33.3 l -9,8.6 c -6.5,-5 -15.5,-5 -22,0 l -9,-8.6 z m 46,2.7 V 14 H 60 L 48,4 36,14 H 22 v 8.8 L 8,36.1 V 92 H 88 V 36.1 Z"
+         class="MsftOfcThm_Background1_Fill_v2"
+         fill="#FFFFFF"
+         id="path8532"
+         style="fill:#ffb031;fill-opacity:1" />
+      <path
+         d="m 48,42.3 c -1.8,0 -3.2,-1.5 -3.2,-3.2 0,-1.8 1.5,-3.2 3.2,-3.2 1.8,0 3.2,1.4 3.2,3.2 0,1.8 -1.4,3.2 -3.2,3.2 z m 0,9.7 c 2.3,0 4.5,-0.6 6.5,-1.6 0.8,-0.5 1.1,-1.5 0.7,-2.3 -0.5,-0.8 -1.5,-1.1 -2.3,-0.7 -1.5,0.8 -3.2,1.2 -4.9,1.2 -5.3,0 -9.7,-4.4 -9.6,-9.7 0,-5.3 4.4,-9.7 9.7,-9.7 5.3,0 9.7,4.3 9.7,9.7 v 3.2 c -1.8,0 -3.2,-1.4 -3.2,-3.2 0,-3.2 -2.2,-5.9 -5.3,-6.5 -3.1,-0.6 -6.2,1.1 -7.3,4 -1.1,2.9 0,6.3 2.7,7.9 2.7,1.6 6.2,1.1 8.3,-1.3 1.2,1.4 3,2.2 4.9,2.2 1.8,0 3.2,-1.4 3.2,-3.2 v -3.2 c 0,-7.2 -5.8,-13 -13,-13 -7.2,0 -13,5.8 -13,13 C 35,46.1 40.8,51.9 48,52 Z"
+         class="MsftOfcThm_Background1_Fill_v2"
+         fill="#FFFFFF"
+         id="path8534"
+         style="fill:#ffb031;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

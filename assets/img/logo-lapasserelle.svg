@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.452667mm"
+   height="24.12471mm"
+   viewBox="0 0 23.452667 24.12471"
+   version="1.1"
+   id="svg1204"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1206"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1201">
+    <linearGradient
+       id="linear-gradient"
+       x1="1.8099999"
+       y1="21.280001"
+       x2="93.980003"
+       y2="98.620003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,67.82398,97.177726)">
+      <stop
+         offset="0"
+         stop-color="#e41f13"
+         id="stop578" />
+      <stop
+         offset="0.25"
+         stop-color="#eb530c"
+         id="stop580" />
+      <stop
+         offset="0.48"
+         stop-color="#f17b07"
+         id="stop582" />
+      <stop
+         offset="0.69"
+         stop-color="#f69903"
+         id="stop584" />
+      <stop
+         offset="0.87"
+         stop-color="#f8ab01"
+         id="stop586" />
+      <stop
+         offset="1"
+         stop-color="#f9b100"
+         id="stop588" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.112375,-100.42149)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1476"
+       width="84.054466"
+       height="85.559914"
+       x="39.894508"
+       y="69.250847"
+       rx="14.786461"
+       ry="11.033954" />
+    <path
+       id="carre_orange"
+       data-name="carre orange"
+       class="cls-2"
+       d="m 68.115022,100.42152 v 8.66246 a 2.2119166,2.2119166 0 0 1 1.561042,0.65616 2.2277916,2.2277916 0 0 1 0.529166,0.88371 0.73457577,0.73457577 0 0 0 1.370542,-0.52917 v 0 a 1.5107708,1.5107708 0 1 1 0.351896,0.55563 l -0.0344,-0.0397 a 1.0424583,1.0424583 0 0 1 -1.031875,0.77523 1.031875,1.031875 0 0 1 -0.550333,-0.17198 2.2304375,2.2304375 0 0 1 -0.296334,1.20386 v 0 a 0.73580929,0.73580929 0 0 0 1.27,0.74347 v 0 a 3.3258125,3.3258125 0 0 1 0.508,-0.65352 3.2199791,3.2199791 0 0 1 4.561417,0 3.175,3.175 0 0 1 0.738187,1.15094 v 0 a 0.73554166,0.73554166 0 0 0 1.37848,-0.508 4.7333958,4.7333958 0 1 1 1.058333,1.63248 4.8339374,4.8339374 0 0 1 -0.777875,-1.02129 1.0371667,1.0371667 0 0 1 -0.584729,0.61383 1.0742083,1.0742083 0 0 1 -0.370417,0.0661 1.0424583,1.0424583 0 0 1 -0.529167,-0.14552 3.2252708,3.2252708 0 1 1 -6.246812,-0.52917 1.0583333,1.0583333 0 0 1 -0.889,-0.0767 1.0583333,1.0583333 0 0 1 -0.505354,-0.77258 2.2251458,2.2251458 0 0 1 -1.513417,0.60854 v 11.01989 h 23.452667 v -24.1247 z"
+       inkscape:export-filename="logo-lapasserelle.svg"
+       inkscape:export-xdpi="108.30324"
+       inkscape:export-ydpi="108.30324"
+       style="fill:url(#linear-gradient);stroke-width:0.264583" />
+  </g>
+</svg>
