@@ -38,12 +38,19 @@ function cardShadowEvent(){
 function flipVisitCard (){
     visitCard.style.transform = "rotateY(180deg)";
     console.log('flipVisitCard');
-    console.log(cardShadow.offsetWidth-450);
-    cardShadow.style.width = cardShadow.offsetWidth-50;
+    console.log(cardShadow);
+    cardShadow.style.width = 50+"px";
+    setTimeout(() => {
+        cardShadow.style.width = 500+"px";
+    }, 200);
 }
 
 function unflipVisitCard(){
     visitCard.style.transform = "rotateY(0deg)";
+    cardShadow.style.width = 50+"px";
+    setTimeout(() => {
+        cardShadow.style.width = 500+"px";
+    }, 200);
 }
 
 document.addEventListener("mousemove", (e) => {
